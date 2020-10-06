@@ -1,0 +1,4 @@
+package exercicis
+
+class Ruta {
+}
