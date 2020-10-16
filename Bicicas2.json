@@ -1,0 +1,422 @@
+{"bicicas": [
+    {
+        "num": "01",
+        "ocupats": 12,
+        "llocs": 26,
+        "nom": "UJI - FCHS",
+        "lliures": 14
+    },
+    {
+        "num": "02",
+        "ocupats": 2,
+        "llocs": 27,
+        "nom": "ESTACIÃ³N DE FERROCARRIL Y AUTOBUSES",
+        "lliures": 25
+    },
+    {
+        "num": "03",
+        "ocupats": 0,
+        "llocs": 13,
+        "nom": "COLÃ³N",
+        "lliures": 13
+    },
+    {
+        "num": "04",
+        "ocupats": 5,
+        "llocs": 14,
+        "nom": "PASEO BUENAVISTA-GRAO",
+        "lliures": 9
+    },
+    {
+        "num": "05",
+        "ocupats": 0,
+        "llocs": 17,
+        "nom": "HOSPITAL GENERAL",
+        "lliures": 17
+    },
+    {
+        "num": "06",
+        "ocupats": 6,
+        "llocs": 14,
+        "nom": "PLAZA DE LA LIBERTAD",
+        "lliures": 8
+    },
+    {
+        "num": "07",
+        "ocupats": 6,
+        "llocs": 14,
+        "nom": "PLAZA TEODORO IZQUIERDO",
+        "lliures": 8
+    },
+    {
+        "num": "08",
+        "ocupats": 7,
+        "llocs": 14,
+        "nom": "PLAZA PRIMER MOLÃ­",
+        "lliures": 7
+    },
+    {
+        "num": "09",
+        "ocupats": 3,
+        "llocs": 12,
+        "nom": "PATRONAT DESPORTS",
+        "lliures": 9
+    },
+    {
+        "num": "10",
+        "ocupats": 10,
+        "llocs": 22,
+        "nom": "PLAZA DOCTOR MARAÃ±Ã³N",
+        "lliures": 12
+    },
+    {
+        "num": "11",
+        "ocupats": 5,
+        "llocs": 23,
+        "nom": "PLAZA JUEZ BORRULL",
+        "lliures": 18
+    },
+    {
+        "num": "12",
+        "ocupats": 7,
+        "llocs": 14,
+        "nom": "ESCUELA OFICIAL DE IDIOMAS",
+        "lliures": 7
+    },
+    {
+        "num": "13",
+        "ocupats": 8,
+        "llocs": 26,
+        "nom": "AVDA. BARCELONA - ANTIGUA ESTACIÃ³N",
+        "lliures": 18
+    },
+    {
+        "num": "14",
+        "ocupats": 3,
+        "llocs": 12,
+        "nom": "PLAZA MAESTRAZGO",
+        "lliures": 9
+    },
+    {
+        "num": "15",
+        "ocupats": 0,
+        "llocs": 16,
+        "nom": "HUERTO SOGUEROS",
+        "lliures": 16
+    },
+    {
+        "num": "16",
+        "ocupats": 1,
+        "llocs": 12,
+        "nom": "HOSPITAL PROVINCIAL",
+        "lliures": 11
+    },
+    {
+        "num": "17",
+        "ocupats": 4,
+        "llocs": 10,
+        "nom": "PLAZA DEL REAL",
+        "lliures": 6
+    },
+    {
+        "num": "18",
+        "ocupats": 5,
+        "llocs": 14,
+        "nom": "MUSEO BELLAS ARTES",
+        "lliures": 9
+    },
+    {
+        "num": "19",
+        "ocupats": 5,
+        "llocs": 16,
+        "nom": "PLANETARIO",
+        "lliures": 11
+    },
+    {
+        "num": "20",
+        "ocupats": 2,
+        "llocs": 14,
+        "nom": "PLAZA MURALLA LIBERAL",
+        "lliures": 12
+    },
+    {
+        "num": "21",
+        "ocupats": 12,
+        "llocs": 28,
+        "nom": "PISCINA OLÃ­MPICA",
+        "lliures": 16
+    },
+    {
+        "num": "22",
+        "ocupats": 9,
+        "llocs": 13,
+        "nom": "POLIESPORTIU CIUTAT DE CASTELLÃ³",
+        "lliures": 4
+    },
+    {
+        "num": "23",
+        "ocupats": 3,
+        "llocs": 14,
+        "nom": "PASEO DE LA UNIVERSIDAD",
+        "lliures": 11
+    },
+    {
+        "num": "24",
+        "ocupats": 5,
+        "llocs": 14,
+        "nom": "ALCORA",
+        "lliures": 9
+    },
+    {
+        "num": "25",
+        "ocupats": 3,
+        "llocs": 15,
+        "nom": "CHENCHO",
+        "lliures": 12
+    },
+    {
+        "num": "26",
+        "ocupats": 4,
+        "llocs": 12,
+        "nom": "DONOSO CORTES",
+        "lliures": 8
+    },
+    {
+        "num": "27",
+        "ocupats": 5,
+        "llocs": 13,
+        "nom": "RIO ADRA",
+        "lliures": 8
+    },
+    {
+        "num": "28",
+        "ocupats": 9,
+        "llocs": 14,
+        "nom": "PLAZA BOTANICO CALDUCH",
+        "lliures": 5
+    },
+    {
+        "num": "29",
+        "ocupats": 4,
+        "llocs": 16,
+        "nom": "PARQUE GEOLOGO JOSÃ© ROYO",
+        "lliures": 12
+    },
+    {
+        "num": "30",
+        "ocupats": 4,
+        "llocs": 9,
+        "nom": "PLAZA FERNANDO HERRERO TEJEDOR",
+        "lliures": 5
+    },
+    {
+        "num": "31",
+        "ocupats": 4,
+        "llocs": 14,
+        "nom": "GINJOLS",
+        "lliures": 10
+    },
+    {
+        "num": "32",
+        "ocupats": 2,
+        "llocs": 15,
+        "nom": "AVDA. FERRANDIS SALVADOR",
+        "lliures": 13
+    },
+    {
+        "num": "33",
+        "ocupats": 5,
+        "llocs": 27,
+        "nom": "AVDA. SOS BAYNAT",
+        "lliures": 22
+    },
+    {
+        "num": "34",
+        "ocupats": 1,
+        "llocs": 13,
+        "nom": "AVDA. DEL REY",
+        "lliures": 12
+    },
+    {
+        "num": "35",
+        "ocupats": 7,
+        "llocs": 12,
+        "nom": "RIO NILO",
+        "lliures": 5
+    },
+    {
+        "num": "36",
+        "ocupats": 10,
+        "llocs": 21,
+        "nom": "TOMBATOSSALS",
+        "lliures": 11
+    },
+    {
+        "num": "37",
+        "ocupats": 2,
+        "llocs": 12,
+        "nom": "PLAZA CARDONA VIVES",
+        "lliures": 10
+    },
+    {
+        "num": "38",
+        "ocupats": 4,
+        "llocs": 15,
+        "nom": "PASEO MORELLA",
+        "lliures": 11
+    },
+    {
+        "num": "39",
+        "ocupats": 8,
+        "llocs": 16,
+        "nom": "PARQUE DEL OESTE",
+        "lliures": 8
+    },
+    {
+        "num": "40",
+        "ocupats": 2,
+        "llocs": 15,
+        "nom": "AV. DEL MAR",
+        "lliures": 13
+    },
+    {
+        "num": "41",
+        "ocupats": 0,
+        "llocs": 11,
+        "nom": "PLAZA LA PAZ",
+        "lliures": 11
+    },
+    {
+        "num": "42",
+        "ocupats": 8,
+        "llocs": 16,
+        "nom": "AVDA VALL D`UXO-CARDENAL COSTA",
+        "lliures": 8
+    },
+    {
+        "num": "43",
+        "ocupats": 1,
+        "llocs": 12,
+        "nom": "FERNANDO EL CATÃ³LICO",
+        "lliures": 11
+    },
+    {
+        "num": "44",
+        "ocupats": 0,
+        "llocs": 16,
+        "nom": "SAN ROQUE",
+        "lliures": 16
+    },
+    {
+        "num": "45",
+        "ocupats": 8,
+        "llocs": 16,
+        "nom": "GRAN VIA",
+        "lliures": 8
+    },
+    {
+        "num": "46",
+        "ocupats": 19,
+        "llocs": 26,
+        "nom": "UJI - ESTCE",
+        "lliures": 7
+    },
+    {
+        "num": "47",
+        "ocupats": 0,
+        "llocs": 13,
+        "nom": "UJI - FCJE",
+        "lliures": 13
+    },
+    {
+        "num": "48",
+        "ocupats": 5,
+        "llocs": 14,
+        "nom": "PLAZA CLAVE",
+        "lliures": 9
+    },
+    {
+        "num": "49",
+        "ocupats": 3,
+        "llocs": 10,
+        "nom": "CASAL JOVE",
+        "lliures": 7
+    },
+    {
+        "num": "50",
+        "ocupats": 11,
+        "llocs": 15,
+        "nom": "AVDA. VALENCIA (GRUPO LIDÃ³N)",
+        "lliures": 4
+    },
+    {
+        "num": "51",
+        "ocupats": 1,
+        "llocs": 9,
+        "nom": "SAN AGUSTÃ­N",
+        "lliures": 8
+    },
+    {
+        "num": "52",
+        "ocupats": 4,
+        "llocs": 14,
+        "nom": "AV. DEL MAR - RECINTO DE FERIAS",
+        "lliures": 10
+    },
+    {
+        "num": "53",
+        "ocupats": 4,
+        "llocs": 12,
+        "nom": "FAROLA",
+        "lliures": 8
+    },
+    {
+        "num": "54",
+        "ocupats": 0,
+        "llocs": 10,
+        "nom": "UJI - VIVERO EMPRESARIAL",
+        "lliures": 10
+    },
+    {
+        "num": "55",
+        "ocupats": 5,
+        "llocs": 5,
+        "nom": "BICICAS",
+        "lliures": 0
+    },
+    {
+        "num": "56",
+        "ocupats": 2,
+        "llocs": 10,
+        "nom": "TIRANT LO BLANCH - PINAR",
+        "lliures": 8
+    },
+    {
+        "num": "57",
+        "ocupats": 2,
+        "llocs": 12,
+        "nom": "GRUPO LOURDES",
+        "lliures": 10
+    },
+    {
+        "num": "58",
+        "ocupats": 2,
+        "llocs": 16,
+        "nom": "PLAZA SEQUIOL",
+        "lliures": 14
+    },
+    {
+        "num": "59",
+        "ocupats": 7,
+        "llocs": 12,
+        "nom": "UJI - FCS",
+        "lliures": 5
+    },
+    {
+        "num": "60",
+        "ocupats": 6,
+        "llocs": 11,
+        "nom": "JAIME I",
+        "lliures": 5
+    }
+]}

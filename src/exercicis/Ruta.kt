@@ -1,4 +1,6 @@
 package exercicis
+import java.io.Serializable
 
-class Ruta {
-}
+class Ruta (
+
+) : Serializable
