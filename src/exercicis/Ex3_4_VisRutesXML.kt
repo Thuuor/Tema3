@@ -44,9 +44,20 @@ class Finestra : JFrame() {
 		panell2.add(area)
 		
 		combo.addActionListener{
-			// accions quan s'ha seleccionat un element del combobox,
-			// i que han de consistir en omplir el JTextArea
 			
+			val ruta = arrel.getElementsByTagName("ruta").item(combo.getSelectedIndex()) as Element
+			
+			val punts = ruta.getElementsByTagName("punt")
+			
+			var sPunt: String = ""
+			
+			for (i in 0 until punts.getLength()){
+				val punto = punts.item(i) as Element
+				
+				sPunt += punto.getElementsByTagName("nom").item(0).getChildNodes().item(0).getNodeValue() + " (" + punto.getElementsByTagName("latitud").item(0).getChildNodes().item(0).getNodeValue() + ", " + punto.getElementsByTagName("latitud").item(0).getChildNodes().item(0).getNodeValue() + ")" + "\n"
+			}
+			
+			area.setText(sPunt)
 		}
 	}
 }
