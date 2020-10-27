@@ -7,4 +7,9 @@ class Coordenades(var latitud: Double,var longitud: Double): Serializable {
         private const val serialVersionUID: Long = 1
     }
 	
+	override fun toString() : String{
+        var s = ""
+        s = "(" + latitud + ", " + longitud + ")"
+        return s
+    }
 }

@@ -8,5 +8,9 @@ class PuntGeo(var nom: String,var coord: Coordenades): Serializable {
     }
 	
 	
+	override fun toString(): String {
+        return nom + " " + coord.toString()
+    }
+	
 	
 }
